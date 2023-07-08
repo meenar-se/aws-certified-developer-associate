@@ -60,7 +60,8 @@ Networking and Content Delivery:
 - [ ] Amazon Route 53 
 - [ ] Amazon VPC Security
 
-Identity, and Compliance: • AWS Certificate Manager (ACM) 
+Identity, and Compliance: 
+- [ ] AWS Certificate Manager (ACM) 
 - [ ] AWS Certificate Manager Private Certificate Authority 
 - [ ] Amazon Cognito 
 - [ ] AWS Identity and Access Management (IAM) 
